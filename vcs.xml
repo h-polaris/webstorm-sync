@@ -1,4 +1,15 @@
 <application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="git@gitee.com:bei-chen/new-years-day-greeting-card.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="F:\Develop\Code" />
+  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
       <list>

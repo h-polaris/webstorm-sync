@@ -1,7 +1,12 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogX" value="760" />
+    <option name="newTranslationDialogY" value="428" />
     <histories>
-      <item value="fixed Number" />
+      <item value="dd" />
+      <item value="ad" />
+      <item value="addd" />
     </histories>
     <option name="languageScores">
       <map>
@@ -11,5 +16,13 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1609918851031" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20190830000330610" />
+      </app-key>
+    </option>
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>

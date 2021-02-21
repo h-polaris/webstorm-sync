@@ -9,8 +9,9 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="18" />
+    <option name="FONT_FAMILY" value="Monaco" />
     <option name="USE_LIGATURES" value="true" />
-    <option name="SECONDARY_FONT_FAMILY" value="SimHei" />
+    <option name="SECONDARY_FONT_FAMILY" value="Microsoft YaHei" />
   </component>
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="Whole" />

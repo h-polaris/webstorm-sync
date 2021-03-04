@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="428" />
     <histories>
+      <item value="景点" />
+      <item value="景区" />
+      <item value="jing" />
+      <item value="Animation" />
+      <item value="Animat" />
+      <item value="Animate" />
+      <item value="adAnimate" />
       <item value="wa" />
       <item value="dd" />
       <item value="ad" />

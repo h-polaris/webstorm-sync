@@ -10,9 +10,13 @@
           <option name="url" value="http://codeup.aliyun.com" />
           <option name="userName" value="203560064" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:zcdJason/ant-design-jeecg-vue.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\Develop\Code" />
+    <option name="cloneParentDir" value="C:\Users\Administrator\Desktop\岛览" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
